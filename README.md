@@ -1,7 +1,7 @@
 <h1 >Hi, I'm Ebuka 👋</h1>
 <h3 >I love building efficient applications and clean user experiences.</h3>
 
-- 🎮 I dabble in playing Apex Legends
+- 🎮 Always down to run a game of Apex Legends
 
 - 🤸🏾‍♂️ I like to train calisthenics
 
